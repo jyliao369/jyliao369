@@ -66,8 +66,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=FeedIt&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/FeedIt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=GameStore&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/GameStore)
-
 
 
 [linkedin]: https://www.linkedin.com/in/justin-liao-64a75a17a/
