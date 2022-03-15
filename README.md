@@ -39,8 +39,8 @@
 <img align="left" alt="Material UI" width="26px" src="https://mui.com/static/logo.png" />
 <img align="left" alt="Bulma" width="19px" src="https://iconape.com/wp-content/files/df/370667/svg/370667.svg" />
 <img align="left" alt="Heroku" width="19px" src="https://cdn.iconscout.com/icon/free/png-256/heroku-3628830-3030107.png" />
+<img align="left" alt="Vue.JS" width="19x" src="https://vuejs.org/images/logo.png"/>
 
-<br />
 <br />
 <br />
 
@@ -49,23 +49,23 @@
 <br />
 <br />
 
-![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyliao369&show_icons=true&theme=tokyonight)
-
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyliao369&show_icons=true&theme=tokyonight)
-
-<br />
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyliao369&show_icons=true&theme=tokyonight)   ![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyliao369&show_icons=true&theme=tokyonight)
 
 ## Favorite Repositories and Projects (current)
 
-<br />
+## Javascript <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=FeedIt&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/FeedIt) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=MyCookBook&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/MyCookBook)
+</br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=FeedIt&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/FeedIt)
+## React <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=MyCookBook&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/MyCookBook) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=weatherDash&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/weatherDash) 
 
+</br>
 
+## Vue.JS <img align="left" alt="Vue.JS" width="25x" src="https://vuejs.org/images/logo.png"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=QuizAppVue&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/QuizAppVue) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=TodoAppVue&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/TodoAppVue) 
+
+</br>
 
 [linkedin]: https://www.linkedin.com/in/justin-liao-64a75a17a/
