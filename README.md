@@ -64,7 +64,7 @@
 </br>
 
 ## Vue.JS <img align="left" alt="Vue.JS" width="25x" src="https://vuejs.org/images/logo.png"/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=QuizAppVue&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/QuizAppVue) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=TodoAppVue&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/TodoAppVue) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=QuizAppVue&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/SymptomChecker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=QuizAppVue&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/QuizAppVue) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jyliao369&repo=TodoAppVue&show_icons=true&theme=tokyonight)](https://github.com/jyliao369/TodoAppVue) 
 
 </br>
 
